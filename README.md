@@ -1,3 +1,4 @@
+![image](https://github.com/Duffy617/AI-for-Medical-Diagnosis/blob/master/Prediction.png)
 【AI-for-Medical-Diagnosis】
 
 ★Project1:Chest X-Ray Medical Diagnosis with Deep Learning <br />
