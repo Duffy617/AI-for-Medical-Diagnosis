@@ -1,4 +1,4 @@
-![image](https://github.com/Duffy617/AI-for-Medical-Diagnosis/blob/master/Prediction.png)
+![image](https://github.com/Duffy617/AI-for-Medical-Diagnosis/blob/master/Brain%20tumor%20prediction.png)
 【AI-for-Medical-Diagnosis】
 
 ★Project1:Chest X-Ray Medical Diagnosis with Deep Learning <br />
