@@ -1,4 +1,4 @@
-##【AI-for-Medical-Diagnosis】
+【AI-for-Medical-Diagnosis】
 
 ★Project1:Chest X-Ray Medical Diagnosis with Deep Learning <br />
 
